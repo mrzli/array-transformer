@@ -4,6 +4,12 @@ All notable changes to the "array-transformers" will be documented in this file.
 
 ## [Unreleased]
 
+## [0.0.3] - 2023-12-23
+
+### Changed
+
+- Update lib in tsconfig to 'ES2023'.
+
 ## [0.0.2] - 2023-12-22
 
 ### Changed
